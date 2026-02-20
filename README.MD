@@ -71,7 +71,7 @@ Set-ItemProperty -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\GameDVR"
 |-----------|--------|
 | Boost Player Contrast | **Activé** |
 | V-Sync | **Désactivé** |
-| NVIDIA G-Sync | **Activé** |
+| NVIDIA G-Sync | **Désactivé** |
 | NVIDIA Reflex Low Latency | **Activé + BOOST** |
 | Maximum FPS In Game | 0
 | Maximum FPS In Menus | 0
